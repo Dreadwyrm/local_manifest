@@ -3,6 +3,10 @@
 	<remote name="Fraschze97"
 		fetch="https://github.com/Fraschze97" />
 	
+	# SEPOLICY
+	<remove-project name="android_device_nad_sepolicy" />
+	<project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="Fraschze97" revision="eleven" />
+	
 	# DT
         <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" remote="Fraschze97" revision="nad11" clone-depth="1" />
 	
