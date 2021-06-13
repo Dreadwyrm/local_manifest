@@ -12,5 +12,8 @@
 	
 	# VT
         <project path="vendor/realme/RMX1821" name="android_vendor_realme_RMX1821" remote="Fraschze97" revision="lineage-18.1-rmui" clone-depth="1" />
+        
+	# Kernel
+	<project path="kernel/realme/RMX1821" name="android_kernel_realme_RMX1821" remote="Fraschze97" revision="lineage-18.1-rmui" clone-depth="1" />
 
 </manifest>
