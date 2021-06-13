@@ -8,8 +8,8 @@
 	<project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="Fraschze97" revision="eleven" />
 	
         # Apps_Plugins
-        <remove-project name="android_package_apps_Plugins" />
-	<project path="package/apps/plugins" name="android_package_apps_potatoPlugins" remote="Fraschze97" revision="eleven" />
+        <remove-project name="android_packages_apps_Plugins" />
+	<project path="packages/apps/plugins" name="android_packages_apps_potatoPlugins" remote="Fraschze97" revision="eleven" />
 	
 	# DT
         <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" remote="Fraschze97" revision="nad11" clone-depth="1" />
