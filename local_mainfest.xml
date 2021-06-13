@@ -9,7 +9,7 @@
 	
         # Apps_Plugins
         <remove-project name="android_packages_apps_Plugins" />
-	<project path="packages/apps/plugins" name="android_packages_apps_potatoPlugins" remote="Fraschze97" revision="eleven" />
+	<project path="packages/apps/plugins" name="android_packages_apps_PotatoPlugins" remote="Fraschze97" revision="eleven" />
 	
 	# DT
         <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" remote="Fraschze97" revision="nad11" clone-depth="1" />
