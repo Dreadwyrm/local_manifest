@@ -4,20 +4,17 @@
 		fetch="https://github.com/Fraschze97" />
 	
 	# SEPOLICY
-	<remove-project name="android_device_nad_sepolicy" />
-	<project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="Fraschze97" revision="eleven" />
+	#remove-project name="android_device_nad_sepolicy" />
+	#project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="Fraschze97" revision="eleven" />
 	
         # Apps_Plugins
         <remove-project name="android_packages_apps_Plugins" />
 	<project path="packages/apps/plugins" name="android_packages_apps_PotatoPlugins" remote="Fraschze97" revision="eleven" />
 	
 	# DT
-        <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" remote="Fraschze97" revision="nad11" clone-depth="1" />
+        <project path="device/realme/RMX3171" name="device_realme_RMX3171" remote="Fraschze97" revision="11" clone-depth="1" />
 	
 	# VT
-        <project path="vendor/realme/RMX1821" name="android_vendor_realme_RMX1821" remote="Fraschze97" revision="lineage-18.1-rmui" clone-depth="1" />
-        
-	# Kernel
-	<project path="kernel/realme/RMX1821" name="android_kernel_realme_RMX1821" remote="Fraschze97" revision="lineage-18.1-rmui" clone-depth="1" />
+        <project path="vendor/realme/RMX3171" name="vendor_realme_RMX3171" remote="Fraschze97" revision="11" clone-depth="1" />
 
 </manifest>
