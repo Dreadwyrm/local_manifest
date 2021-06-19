@@ -4,7 +4,7 @@
 		fetch="https://github.com/Fraschze97" />
 	
 	# DT
-        <project path="device/realme/RMX1941" name="android_device_realme_RMX1941" remote="Fraschze97" revision="nad11" clone-depth="1" />
+        <project path="device/oppo/RMX1941" name="android_device_oppo_RMX1941" remote="Fraschze97" revision="eleven-ims" clone-depth="1" />
 	
 	# VT
         <project path="vendor/realme/RMX1941" name="android_vendor_realme_RMX1941" remote="Fraschze97" revision="eleven" clone-depth="1" />
