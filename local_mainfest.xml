@@ -4,10 +4,10 @@
 		fetch="https://github.com/Fraschze97" />
 	
 	# DT
-        <project path="device/realme/RMX1941" name="android_device_realme_RMX2185" remote="Fraschze97" revision="lineage-18.1" clone-depth="1" />
+        <project path="device/realme/RMX2185" name="android_device_realme_RMX2185" remote="Fraschze97" revision="lineage-18.1" clone-depth="1" />
 	
 	# VT
-        <project path="vendor/realme/RMX1941" name="proprietary_vendor_realme_RMX2185" remote="Fraschze97" revision="lineage-18.1" clone-depth="1" />
+        <project path="vendor/realme/RMX2185" name="proprietary_vendor_realme_RMX2185" remote="Fraschze97" revision="lineage-18.1" clone-depth="1" />
 	
 	# Apps_Plugins
         <remove-project name="android_packages_apps_Plugins" />
